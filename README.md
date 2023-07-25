@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at - [Portfolio](https://omjain.netlify.app/)
 
-- 💬 Ask me about - **react, react-native, spring**
-
 - 📫 How to reach me - **omjain2606@gmail.com**
 
 - 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1YMp3-3PvozPLq5pn5N8qVf1FfnkRiQPL/view?usp=drive_link)
