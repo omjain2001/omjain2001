@@ -6,7 +6,7 @@ I'm a driven Software Engineer 🧑‍💻 with a keen interest in leveraging te
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omjain2001/)](https://www.linkedin.com/in/omjain2001/) [![GitHub](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/omjain2001)](https://github.com/omjain2001) [![Gmail](https://img.shields.io/badge/-GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto://omjain2606@gmail.com)](mailto://omjain2606@gmail.com) [![Portfolio](https://img.shields.io/badge/-portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&link=https://omjain.netlify.app)](https://omjain.netlify.app) [![Leetcode](https://img.shields.io/badge/-leetcode-FFA116?style=for-the-badge&logo=Leetcode&logoColor=white&link=https://leetcode.com/u/omjain26/)](https://leetcode.com/u/omjain26/)
 
----
+<br>
 
 ## 💻 Things I code with
 
@@ -66,15 +66,15 @@ I'm a driven Software Engineer 🧑‍💻 with a keen interest in leveraging te
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-plastic&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-plastic&logo=Confluence&logoColor=white)
 
----
+<br>
 
 ## 📈 GitHub Stats
 
 <div style="display: flex; flex-direction: row; align-items: center; margin: 50px 0px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omjain2001&show_icons=true&locale=en&layout=compact" alt="omjain2001" style="height: 200px; margin-right: 50" />
-    <img src="https://github-readme-stats.vercel.app/api?username=omjain2001&show_icons=true&locale=en" alt="omjain2001" style="height: 200px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omjain2001&show_icons=true&locale=en&layout=compact" alt="omjain2001" style="height: 150px; margin-right: 50" />
+    <img src="https://github-readme-stats.vercel.app/api?username=omjain2001&show_icons=true&locale=en" alt="omjain2001" style="height: 150px"/>
 </div>
 
 ## 🔥 GitHub Streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omjain2001&" alt="omjain2001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omjain2001&" alt="omjain2001" style="height: 150px"/></p>
